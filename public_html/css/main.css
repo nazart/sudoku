@@ -1,0 +1,36 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28-dic-2014, 17:01:42
+    Author     : metro pc
+*/
+
+td {
+    
+    border: darkgray solid 1px;
+}
+ 
+input{
+    width: 40px;
+    height: 40px;
+    margin: auto;
+    border: none;
+    background: transparent;
+    text-align: center;
+    font-size: larger;
+}
+.grupoOscuro{
+    background-color: #ccccff;
+}
+.grupoClaro{
+    background-color: #ccffcc;
+}
+.inputError{
+    border: #ff0000 solid 1px;
+}
+.inputError input{
+    background: #ff0000;
+}
